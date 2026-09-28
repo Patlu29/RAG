@@ -1,0 +1,93 @@
+META PLATFORMS INC. - COMPANY PROFILE
+Prepared: 12 August 2026
+Document type: Knowledge-base reference (for Retrieval-Augmented-Generation demonstration purposes)
+
+OVERVIEW:
+
+Meta Platforms Inc., formerly Facebook Inc., is an American multinational technology organisation headquartered in Menlo Park, California. It is one of the world's largest social technology companies, operating applications used by billions of people globally, including Facebook, Instagram, WhatsApp and Messenger. Meta also runs Reality Labs, a research and hardware division focused on virtual reality (VR), augmented reality (AR) and the long-term "metaverse" strategy. This profile summarises the organisation's history, operations, products, financial position, branding, culture, competitive landscape, corporate responsibility initiatives and recent strategic direction. Financial figures throughout are approximate and illustrative and should be verified against Meta's official Form 10-K and 10-Q filings with the U.S. Securities and Exchange Commission for current accuracy.
+
+COMPANY ORIGIN AND HISTORY:
+
+Meta Platforms traces its origins to February 2004, when Harvard University student Mark Zuckerberg launched a website called "Thefacebook" from his dormitory. He developed the site with fellow students Eduardo Saverin, who provided early funding, Dustin Moskovitz, who contributed to engineering, and Chris Hughes and Andrew McCollum, who assisted with early development and promotion. The site began as an online directory for Harvard students, mirroring the physical "facebooks" traditionally distributed by American universities, and grew quickly beyond Harvard to other universities across the United States and Canada within its first year.
+
+In 2005 the company dropped "The" from its name, becoming simply "Facebook", and secured venture capital funding. In 2006, it opened registration to anyone aged thirteen or older with an email address, transforming it from a campus network into a global social platform. The organisation settled its headquarters in Menlo Park, California, where it remains today, and introduced the News Feed, the "Like" button, a mobile application and the advertising platform that became its main revenue source.
+
+On 18 May 2012, Facebook Inc. conducted its initial public offering on the NASDAQ exchange under the ticker "FB", one of the largest technology IPOs at the time, valuing the company at roughly 104 billion US dollars. Facebook subsequently acquired Instagram in 2012 for approximately one billion US dollars and WhatsApp in 2014 for around nineteen billion US dollars, broadening its reach into photo-sharing and private messaging.
+
+In October 2021, the organisation rebranded from Facebook Inc. to Meta Platforms Inc., adopting a new name and infinity-symbol logo to reflect ambitions beyond social networking, particularly its stated commitment to building the metaverse, an interconnected set of immersive virtual and augmented reality environments. "Facebook" continued as one app within the broader Meta portfolio alongside Instagram, WhatsApp, Messenger and Reality Labs, and the stock ticker changed to "META". Meta remains headquartered at 1 Hacker Way, Menlo Park, California.
+
+WHAT THEY DO / CORE BUSINESS:
+
+Meta Platforms operates primarily as a technology and digital advertising organisation connecting people, businesses and communities through social networking, messaging and content-sharing applications. Facebook, its largest product, lets users create profiles, share updates, join groups and interact with friends, businesses and public figures. Instagram is a photo and video sharing platform incorporating Stories, Reels and direct messaging. WhatsApp and Messenger form the messaging arm, with WhatsApp serving as a primary channel for personal and small-business communication in many regions. Together these four products form the "Family of Apps" (FoA) segment.
+
+The large majority of Meta's revenue comes from digital advertising, with businesses of all sizes paying to place targeted advertisements across the Family of Apps using audience data and segmentation tools. This model has driven profitability since the early 2010s. Beyond social and messaging products, Meta invests heavily in VR and AR through Reality Labs, reflecting its strategic bet that the metaverse will become an increasingly important computing platform over the coming decade.
+
+PRODUCTS AND SERVICES:
+
+Meta organises its offerings into two reportable segments: Family of Apps and Reality Labs. Family of Apps includes Facebook (profiles, groups, marketplace listings, events and Facebook Watch video); Instagram (core feed, Stories, Reels and Direct messaging); WhatsApp (encrypted text, voice and video calls, plus WhatsApp Business and payments in select markets); and Messenger (text, voice and video messaging integrated with Facebook). Meta Business Suite and Ads Manager let advertisers and small businesses manage campaigns and pages across the apps from one interface.
+
+Reality Labs covers the Meta Quest line of standalone VR headsets (Quest 2, Quest 3 and Quest Pro) used for gaming, fitness, social interaction and productivity, plus AR smart glasses produced with eyewear company EssilorLuxottica under the Ray-Ban Meta brand, combining camera, audio and AI assistant features. The segment also includes Horizon Worlds, a social VR platform for user-generated environments, and development kits supporting third-party creators. Across its products, Meta has added AI features including chat assistants in Messenger, Instagram and WhatsApp, AI-driven content ranking, and generative AI tools that help advertisers create and optimise ad creative.
+
+FINANCIAL PERFORMANCE AND EARNINGS:
+
+Meta Platforms is among the largest technology companies globally by market capitalisation, generating annual revenue reportedly in the order of 120 to 165 billion US dollars in recent years, the large majority from advertising across the Family of Apps. Net income has generally represented a healthy share of revenue, reflecting the high margins typical of digital advertising. These figures are approximate and illustrative only; readers should verify precise, current numbers against Meta's official 10-K and 10-Q filings, as results vary by period and are subject to revision.
+
+The Family of Apps segment has historically been highly profitable and funds the rest of the business. Reality Labs, by contrast, has consistently operated at a significant annual loss, reflecting heavy investment in research, hardware development and manufacturing; leadership has indicated this is expected to continue for a number of years, treating the segment as a long-term bet rather than a near-term profit centre.
+
+Advertising revenue is influenced by economic conditions, foreign exchange movements, advertiser demand, platform policy shifts such as Apple's App Tracking Transparency framework, and competition for advertiser budgets. Meta has also disclosed substantial capital expenditure tied to data centres, servers and AI infrastructure. Readers seeking precise current financial data should consult Meta's investor relations materials and official SEC filings.
+
+ANNUAL REVENUE HISTORY (APPROXIMATE, ILLUSTRATIVE FIGURES BY CALENDAR YEAR):
+
+The figures below are rounded, approximate and illustrative only, intended to convey broad growth trends rather than exact reported amounts. They should be verified against Meta's official annual Form 10-K filings before being used for any analytical or decision-making purpose.
+
+2018: approximately US$55.8 billion
+2019: approximately US$70.7 billion
+2020: approximately US$85.9 billion
+2021: approximately US$117.9 billion
+2022: approximately US$116.6 billion
+2023: approximately US$134.9 billion
+2024: approximately US$164 billion (illustrative estimate)
+
+This pattern shows strong growth through 2021, a rare year-on-year decline in 2022 attributable to advertising headwinds including Apple's App Tracking Transparency changes and a weaker macroeconomic advertising environment, followed by a strong recovery in 2023 and 2024 as cost discipline, Reels monetisation and AI-driven ad targeting improvements took hold. Actual reported figures for any given year may differ from those shown here and should be confirmed against Meta's official earnings releases and SEC filings.
+
+MARKETING AND BRANDING:
+
+Meta's brand identity has evolved considerably since the company's founding. In its early years, the Facebook brand was associated with connection and openness, reflected in mottos about making the world "more open and connected". Over the following decade, the brand faced mounting reputational challenges, including the 2018 Cambridge Analytica data-sharing controversy and broader concerns about misinformation, election interference and effects on user wellbeing, particularly among younger users.
+
+The October 2021 rebrand was partly an attempt to redefine the corporate identity beyond this reputational baggage while signalling the pivot to the metaverse, supported by a large marketing campaign introducing the concept to mainstream audiences. Marketing for Reality Labs products, including Quest headsets and Ray-Ban Meta glasses, has emphasised accessibility, social connection, fitness and everyday utility, aiming to broaden adoption beyond gaming enthusiasts. Meta maintains extensive commercial relationships with advertisers of all sizes, from small businesses to major global brands, while continuing to face scrutiny around trust, privacy and content moderation.
+
+CORPORATE CULTURE AND LEADERSHIP:
+
+Mark Zuckerberg has served as Chief Executive Officer since the organisation's founding in 2004 and holds the title of Founder, Chairman and CEO. Through a dual-class share structure, he retains significant voting control, giving him considerable influence over major decisions including the 2021 rebrand and the ongoing metaverse and AI strategy.
+
+Sheryl Sandberg served as Chief Operating Officer from 2008 until her departure in 2022 and is widely credited with building the organisation's advertising business during a critical growth period. After her departure, operational responsibilities were distributed among other senior executives rather than replaced in the same standalone role. Other notable executives have included Chief Technology Officer Andrew Bosworth, who also leads Reality Labs, and Chief Financial Officer Susan Li.
+
+The engineering culture was historically shaped by the internal motto "Move fast and break things", reflecting an emphasis on rapid iteration in its early years. As the company matured and faced greater scrutiny over its societal impact, this ethos was formally revised toward mottos emphasising stability and responsibility alongside continued innovation, a shift also reflected in notable rounds of workforce reduction following the 2021 rebrand as resources were redirected toward AI and Reality Labs priorities.
+
+COMPETITORS AND MARKET POSITION:
+
+Meta operates in a highly competitive environment across each of its major business lines. In social media, principal competitors include TikTok, a short-form video platform with strong engagement among younger demographics; Snapchat; and X (formerly Twitter). Meta has introduced features directly responsive to competitive pressure, such as Instagram Reels, widely seen as a response to TikTok's popularity.
+
+In digital advertising, Meta's most significant competitor is Alphabet Inc., parent of Google, which operates its own extensive advertising network across search, display and video, while Amazon has also emerged as a substantial competitor leveraging e-commerce data for targeted advertising. Meta and Alphabet together have historically commanded a large share of global digital advertising spend, though this faces growing pressure from retail media networks and connected television advertising.
+
+In VR and AR hardware, Reality Labs competes with Apple, whose Vision Pro headset entered the mixed-reality market at a premium price point, and Sony, whose PlayStation VR products serve the gaming-focused market. Meta has generally pursued more accessible, lower-priced VR hardware relative to Apple's premium positioning, aiming to build broader mainstream adoption of immersive technology.
+
+CORPORATE SOCIAL RESPONSIBILITY AND SUSTAINABILITY:
+
+Meta has publicly committed to environmental sustainability targets, including reported commitments to net-zero greenhouse gas emissions across its value chain and to supporting data centre operations with renewable energy, including solar and wind investments in various regions. The precise scope and current status of these commitments should be verified against Meta's official sustainability reports.
+
+Content moderation and platform safety remain persistent areas of focus and criticism. Meta has invested substantially in AI systems, human review teams and third-party fact-checking partnerships to reduce misinformation, hate speech and other harmful content, and in 2020 established an independent Oversight Board empowered to review and issue binding decisions on selected content moderation cases. The organisation has also faced sustained criticism and regulatory attention over data privacy, notably following the 2018 Cambridge Analytica controversy involving improper harvesting of user data for political advertising, which resulted in significant penalties including a landmark settlement with the U.S. Federal Trade Commission, and over the mental health effects of its platforms, particularly Instagram, on teenagers, prompting additional parental controls and, in some jurisdictions, new regulatory requirements around youth safety.
+
+Philanthropically, Mark Zuckerberg and his wife Priscilla Chan founded the Chan Zuckerberg Initiative (CZI) in 2015, a philanthropic organisation separate from Meta Platforms focused on science and medical research, education and community development, and operating independently of Meta's own corporate responsibility programs.
+
+RECENT STRATEGIC DEVELOPMENTS AND FUTURE OUTLOOK:
+
+In recent years, Meta has significantly intensified its investment in artificial intelligence, positioning AI as central to both its core advertising business and its longer-term platform ambitions. The organisation has developed a series of large language models under the Llama family, released under varying degrees of open licensing, positioning Meta as a notable proponent of relatively open AI model development. Meta has also integrated AI-powered assistants, branded Meta AI, across Facebook, Instagram, WhatsApp and Messenger, offering conversational search, content generation and assistance features.
+
+The metaverse strategy, while still a stated long-term priority, has evolved since the 2021 rebrand. Reality Labs continues investing in Quest headsets, AI-enabled smart glasses developed with EssilorLuxottica, and future AR glasses research, even as the segment continues to report substantial losses, with leadership commentary suggesting increasing convergence between the metaverse and AI strategies as wearable AI-enabled devices become a more immediately commercial expression of the broader immersive computing vision.
+
+Meta continues to face significant regulatory and antitrust scrutiny in multiple jurisdictions. In the United States, the Federal Trade Commission has pursued antitrust action concerning the historical acquisitions of Instagram and WhatsApp. In the European Union, Meta has faced obligations and penalties under frameworks such as the General Data Protection Regulation (GDPR) and the Digital Markets Act (DMA), governing data handling, interoperability and platform competition, and regulatory developments in these and other jurisdictions, including Australia, continue to shape the operating environment for Meta's advertising and data practices.
+
+Looking ahead, Meta's stated priorities include continued investment in AI infrastructure and model development, efforts to make Reality Labs' products more accessible and commercially sustainable, defending and growing its core advertising business amid competitive and regulatory pressure, and continued navigation of the safety and privacy responsibilities associated with operating some of the world's most widely used communication platforms. As with all forward-looking commentary, this should be treated as directional rather than guaranteed; readers should consult Meta's most recent public disclosures and official filings for up-to-date information.
+
+END OF DOCUMENT.

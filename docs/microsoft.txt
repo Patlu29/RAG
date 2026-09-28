@@ -1,0 +1,98 @@
+MICROSOFT CORPORATION - COMPANY PROFILE
+
+Document prepared: 12 August 2026
+Purpose: Knowledge-base reference document for retrieval-augmented-generation (RAG) demonstration purposes.
+
+OVERVIEW:
+
+Microsoft Corporation is a multinational technology organisation headquartered in Redmond, Washington, United States. Its business spans operating systems, productivity software, cloud computing, gaming hardware and services, professional networking, and artificial intelligence. Microsoft's shares trade on the NASDAQ exchange under the ticker MSFT, and the company is consistently ranked among the most valuable publicly listed organisations in the world by market capitalisation. All figures in this profile relating to revenue, profit and market value are approximate and illustrative only, and should be verified against Microsoft's official 10-K and 10-Q filings for current accuracy.
+
+COMPANY ORIGIN AND HISTORY:
+
+Microsoft was founded on 4 April 1975 by childhood friends Bill Gates and Paul Allen, who had met at Lakeside School in Seattle and shared an early fascination with programming. The catalyst came when Allen showed Gates a January 1975 issue of Popular Electronics magazine featuring the Altair 8800, an early hobbyist microcomputer. The pair wrote a version of the BASIC programming language for the Altair, which became Microsoft's first commercial product.
+
+The company was originally established in Albuquerque, New Mexico, near the offices of MITS, manufacturer of the Altair, with whom Gates and Allen had a licensing arrangement. The name "Micro-Soft", a blend of "microcomputer" and "software", was coined by Gates and registered in 1976, later becoming simply "Microsoft". In 1979 the company relocated to Bellevue, Washington, before settling permanently in Redmond in 1986.
+
+A defining moment came in 1980, when IBM approached Microsoft to supply an operating system for its forthcoming personal computer line. Microsoft licensed this system to IBM as PC-DOS while retaining rights to sell its own version, MS-DOS, to other manufacturers, a deal that let it collect a licence fee on most IBM-compatible PCs sold through the 1980s and established it as the dominant PC operating system supplier. Building on this, Microsoft launched Windows in November 1985, a graphical environment running atop MS-DOS. Subsequent releases, particularly Windows 3.0 in 1990 and Windows 95 in 1995, made Windows the world's dominant desktop operating system.
+
+Microsoft completed its initial public offering on 13 March 1986 at 21 US dollars per share, a listing widely credited with creating an unusually large number of "Microsoft millionaires" among early employees. Paul Allen stepped back from daily operations in 1983 due to illness but remained a major shareholder for many years; he passed away in October 2018 after a life devoted to philanthropy and science. Bill Gates served as chief executive until January 2000, later devoting most of his time to the Bill and Melinda Gates Foundation. Further milestones include the Hotmail acquisition (1997), the Xbox launch (2001), Windows XP (2001) and Windows 7 (2009), the launch of Azure (2010), Nadella's appointment as chief executive (2014), the LinkedIn (2016) and GitHub (2018) acquisitions, and the 2023 Activision Blizzard acquisition.
+
+WHAT THEY DO / CORE BUSINESS:
+
+Microsoft remains fundamentally a software business, producing the Windows operating system that powers most of the world's desktop and laptop computers. It is also one of the largest global providers of public cloud infrastructure through Azure, offering computing power, storage, databases, networking and AI services to businesses and governments worldwide.
+
+Productivity software is delivered principally through Microsoft 365 (formerly Office 365), a subscription suite including Word, Excel, PowerPoint, Outlook and Teams. Teams usage expanded substantially during the shift to remote and hybrid working from 2020 onward and remains central to Microsoft's collaboration strategy.
+
+In consumer technology, Microsoft operates the Xbox gaming business, spanning console hardware, the Xbox Game Pass subscription, and, following the Activision Blizzard acquisition, franchises including Call of Duty, World of Warcraft and Overwatch. It also sells Surface-branded hardware, competing with its own Windows licensees. Microsoft owns LinkedIn, the world's largest professional networking platform, and GitHub, the leading software development collaboration platform, alongside developer tools such as Visual Studio. Artificial intelligence, delivered under the Copilot brand and underpinned by its OpenAI partnership, is now central to Microsoft's stated future direction.
+
+PRODUCTS AND SERVICES:
+
+Operating systems: Windows 10 and Windows 11 for personal computers, Windows Server for enterprise environments, and Windows IoT for embedded devices.
+
+Productivity and collaboration: Microsoft 365 across consumer, small business and enterprise tiers, including Word, Excel, PowerPoint, Outlook, OneNote, Teams, SharePoint, OneDrive, Exchange and Viva.
+
+Cloud and enterprise infrastructure: Microsoft Azure (infrastructure, platform and software-as-a-service), Azure AI and Azure OpenAI Service, SQL Server, Dynamics 365 for enterprise resource planning and customer relationship management, and the Power Platform (Power BI, Power Apps and Power Automate).
+
+Artificial intelligence: Copilot, integrated across Windows, Microsoft 365, GitHub (as GitHub Copilot), Dynamics 365 and Security products; and Azure AI Foundry for building and deploying AI models and agents.
+
+Devices and gaming: the Surface range of laptops, tablets and two-in-one devices; Xbox Series X and Series S consoles; HoloLens headsets; Xbox Game Pass and Xbox Live; and a studio and franchise portfolio via Activision Blizzard, Bethesda Softworks (ZeniMax Media) and Mojang Studios (Minecraft).
+
+Professional networking and developer tools: LinkedIn, including LinkedIn Recruiter, LinkedIn Learning and Sales Navigator; and GitHub, GitHub Copilot, GitHub Actions, Visual Studio and the .NET platform.
+
+Security: Microsoft Defender, Microsoft Sentinel and Microsoft Entra identity management, an area of growing emphasis given rising global cyber threats.
+
+FINANCIAL PERFORMANCE AND EARNINGS:
+
+Microsoft reports results across three segments: Productivity and Business Processes (Microsoft 365, LinkedIn, Dynamics 365), Intelligent Cloud (Azure and server products), and More Personal Computing (Windows, Surface, gaming and search advertising).
+
+In broad, illustrative terms, Microsoft has in recent years generated annual revenue of approximately 200 to 250 billion US dollars, with net income of approximately 70 to 90 billion US dollars, figures that place it among the most profitable companies in the world. Intelligent Cloud, driven by Azure, has generally been the fastest-growing segment, reflecting cloud adoption and AI infrastructure demand. Productivity and Business Processes has typically delivered steady growth as customers move to higher-value subscription tiers, while More Personal Computing is more cyclical, tracking the PC hardware market and gaming console cycles.
+
+Microsoft's market capitalisation has at times exceeded approximately 3 trillion US dollars, among the one or two most valuable listed companies globally. The company has historically maintained a strong balance sheet, substantial free cash flow, and a long-standing dividend and buyback programme. These figures are illustrative only; readers requiring precise data should consult Microsoft's official SEC filings.
+
+ANNUAL REVENUE HISTORY (APPROXIMATE, ILLUSTRATIVE FIGURES BY FISCAL YEAR ENDING 30 JUNE):
+
+The figures below are rounded, approximate and illustrative only, intended to convey broad growth trends across Microsoft's fiscal years (Microsoft's financial year runs from 1 July to 30 June). They should be verified against Microsoft's official annual Form 10-K filings before being used for any analytical or decision-making purpose.
+
+FY2018: approximately US$110 billion
+FY2019: approximately US$125 billion
+FY2020: approximately US$143 billion
+FY2021: approximately US$168 billion
+FY2022: approximately US$198 billion
+FY2023: approximately US$212 billion
+FY2024: approximately US$245 billion (illustrative estimate)
+
+This pattern reflects consistent double-digit percentage growth across most years of the past decade, driven substantially by Azure and Intelligent Cloud expansion, together with steady gains in Microsoft 365 and, more recently, early monetisation of Copilot and other AI-related offerings. Actual reported figures for any given fiscal year may differ from those shown here and should be confirmed against Microsoft's official earnings releases and SEC filings.
+
+MARKETING AND BRANDING:
+
+Microsoft's stated mission is "to empower every person and every organisation on the planet to achieve more", adopted under Satya Nadella's leadership as a deliberate broadening of brand identity beyond any single flagship product. In earlier decades, Microsoft's brand was closely tied to Windows, with campaigns such as "Where do you want to go today?" in the 1990s emphasising personal empowerment through computing. As the industry shifted toward mobile, cloud and subscription software, Microsoft's marketing evolved to emphasise productivity and collaboration, and more recently artificial intelligence, with the Copilot brand now unifying its AI capabilities across nearly every product as a trustworthy everyday companion. Its four-colour square logo, introduced in 2012, has remained a stable visual anchor even as messaging has evolved substantially.
+
+CORPORATE CULTURE AND LEADERSHIP:
+
+Satya Nadella became Microsoft's third chief executive in February 2014, succeeding Steve Ballmer and following the earlier tenure of co-founder Bill Gates. Nadella is widely credited with shifting Microsoft's internal culture from what he has described as a "know-it-all" culture, marked by internal competitiveness, toward a "learn-it-all" culture emphasising continuous learning, psychological safety and a growth mindset, a concept drawn from psychologist Carol Dweck's research. This shift is credited with enabling major changes, including Microsoft's embrace of open-source software, Office apps for rival platforms such as iOS and Android, and its pivot toward cloud computing and artificial intelligence.
+
+Bill Gates remains associated with the company's legacy in an advisory capacity while focusing on philanthropy. Notable current executives include Amy Hood, chief financial officer; Brad Smith, vice chair and president, prominent in public policy matters; and Kevin Scott, chief technology officer, closely involved in the OpenAI partnership.
+
+COMPETITORS AND MARKET POSITION:
+
+In cloud infrastructure, Microsoft's principal rivals are Amazon Web Services, generally the largest global provider, and Google Cloud Platform; Azure is generally regarded as the second-largest provider. In productivity software, Microsoft 365 competes with Google Workspace and tools such as Slack and Zoom. Windows dominates desktop and laptop computing but faces competition from Apple's macOS and, in mobile, from Android and iOS. In gaming, Xbox competes directly with Sony's PlayStation and, to a lesser extent, Nintendo. LinkedIn holds a broadly dominant position in professional networking. In artificial intelligence, Microsoft, through OpenAI and Copilot, competes with Google, Amazon, Meta and other well-funded AI companies, including Anthropic.
+
+CORPORATE SOCIAL RESPONSIBILITY AND SUSTAINABILITY:
+
+In January 2020, Microsoft pledged to become carbon negative by 2030, intending to remove more carbon than it emits, including historical emissions, alongside commitments to become water positive and achieve zero waste by the same year. The company publishes an annual sustainability report and has acknowledged that growing energy demand from AI data centres has made these targets more challenging, prompting continued investment in renewable energy and carbon removal technologies.
+
+Accessibility has long been a stated priority, reflected in features built into Windows, Microsoft 365 and Xbox (including adaptive controllers), and through the AI for Accessibility grant programme. Microsoft Philanthropies coordinates charitable giving and digital skilling programmes, including software donations for nonprofits and schools.
+
+On AI ethics, Microsoft has published Responsible AI principles and established an Office of Responsible AI to guide development of systems it describes as fair, reliable, safe, private, inclusive, transparent and accountable, an area of continued regulatory attention in jurisdictions including Australia, the European Union and the United States.
+
+RECENT STRATEGIC DEVELOPMENTS AND FUTURE OUTLOOK:
+
+The most significant recent development in Microsoft's strategy has been its deepening partnership with OpenAI, developer of the GPT model family and ChatGPT. Beginning with an initial investment in 2019 and expanding through subsequent multi-billion-dollar commitments, Microsoft has positioned itself as OpenAI's principal cloud infrastructure provider, integrating its models into Azure OpenAI Service and into Microsoft's own Copilot products across Windows, Microsoft 365, GitHub and beyond.
+
+Microsoft completed its acquisition of Activision Blizzard in October 2023, a transaction valued at approximately 69 billion US dollars, following an extended regulatory review across the United Kingdom, the European Union and the United States, substantially expanding Microsoft's gaming content portfolio.
+
+The company continues to face regulatory attention regarding competition, data privacy and the market power of its cloud and AI businesses, and continues expanding its data centre footprint, including across the Asia-Pacific region. Looking ahead, Microsoft's stated priorities centre on continued AI infrastructure investment and Copilot integration, ongoing Azure growth, gaming business expansion, and sustained focus on cybersecurity, reflecting an industry-wide shift toward AI that Microsoft, given its scale, is positioned to influence significantly in the years ahead.
+
+END OF DOCUMENT.
+
+Note: Prepared for general reference and knowledge-base purposes as part of a retrieval-augmented-generation demonstration project. Figures herein are approximate; consult Microsoft's official SEC filings for current, precise data.

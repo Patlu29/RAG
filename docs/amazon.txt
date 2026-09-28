@@ -1,0 +1,90 @@
+AMAZON.COM INC. — COMPANY PROFILE
+Prepared as at 12 August 2026 for knowledge-base and reference purposes.
+
+OVERVIEW:
+
+Amazon.com Inc. (Amazon) is a United States multinational technology and e-commerce organisation headquartered in Seattle, Washington. Founded by Jeff Bezos in 1994, Amazon began as an online bookseller and has grown into one of the world's largest and most diversified companies, spanning online retail, cloud computing, digital advertising, logistics, consumer electronics, and entertainment. It is regarded as one of the "Big Five" American technology companies, alongside Apple, Alphabet (Google), Meta, and Microsoft. Figures in this profile are approximate and illustrative only, based on general public knowledge as at the preparation date, and should be verified against Amazon's official 10-K and 10-Q filings with the U.S. Securities and Exchange Commission for current accuracy.
+
+COMPANY ORIGIN AND HISTORY:
+
+Jeff Bezos, a former Wall Street computer scientist, identified the rapid growth of internet usage in the early 1990s and resigned from his finance career to pursue it. In 1994 he founded the company, initially named Cadabra Inc. and soon renamed Amazon.com, working from the garage of a rented house in Bellevue, Washington, near Seattle, where the team famously built early desks from wooden doors, a frugal approach that became company folklore. Books were chosen as the first product because the catalogue of titles was vast, an established wholesale distribution network existed, and low unit shipping costs made the model viable. The website launched in July 1995 and grew quickly, reportedly shipping to all fifty states and dozens of countries within its first month.
+
+The name "Amazon" was chosen after the Amazon River, the largest river by volume in the world, as a metaphor for scale, while also beginning with "A" for alphabetical prominence. Amazon completed its initial public offering on NASDAQ on 15 May 1997 under the ticker AMZN. A defining element of its culture has been Bezos's "Day 1" philosophy, set out in his 1997 shareholder letter and reprinted in every annual report since, holding that a company must operate as though perpetually on its first day, since "Day 2" represents stagnation and decline.
+
+Amazon expanded well beyond books to become an "everything store." Key milestones include the 2002 introduction of Amazon Web Services, a standalone cloud business from 2006; the 2005 launch of Amazon Prime; the 2007 Kindle launch; the 2014 launch of Echo and Alexa; the 2017 acquisition of Whole Foods Market for approximately US$13.7 billion; and the 2021 transition of Bezos from CEO to Executive Chairman, with Andy Jassy, previously head of AWS, becoming CEO. Amazon also weathered the early-2000s dot-com crash, recovering strongly as its logistics and technology investments matured.
+
+WHAT THEY DO — CORE BUSINESS:
+
+Amazon's core is a global e-commerce marketplace connecting consumers with millions of third-party sellers alongside its own first-party inventory, supported by "Fulfilment by Amazon," which handles storage, packing, and shipping for sellers. AWS provides on-demand computing, storage, databases, machine learning tools, and networking infrastructure worldwide, and is regarded as a pioneer and long-standing leader in cloud infrastructure.
+
+Amazon also runs a substantial digital advertising business, leveraging its first-party shopping data to sell sponsored placements and display and video advertising, which has become a highly profitable growth segment. Logistics and delivery form another cornerstone, with a proprietary network of fulfilment centres, delivery stations, cargo aircraft (Amazon Air), and last-mile partners reducing reliance on third-party carriers.
+
+Amazon Prime, the paid subscription programme, bundles fast, free shipping with digital benefits such as Prime Video and Prime Music, and is central to customer retention. Amazon also designs consumer electronics including Kindle e-readers, Echo devices powered by Alexa, and Fire tablets and streaming devices, deepening ecosystem engagement while generating hardware revenue.
+
+PRODUCTS AND SERVICES:
+
+Amazon's retail catalogue spans books, electronics, apparel, groceries, homewares, toys, and virtually every consumer category, sold directly and via third-party sellers, with Amazon Business serving corporate procurement. AWS offers services including Elastic Compute Cloud (EC2), Simple Storage Service (S3), Relational Database Service and DynamoDB, AWS Lambda, and a growing suite of AI tools including Amazon Bedrock, which gives access to foundation models for generative AI applications.
+
+In devices, Amazon produces the Kindle range, Echo speakers and displays, Fire tablets and Fire TV, and Ring smart home security products (acquired 2018). In entertainment, it offers Prime Video, Amazon Music, Audible (2008), and Twitch (2014). Amazon has also expanded into physical and healthcare-adjacent retail: Whole Foods Market integrates online delivery with in-store grocery; Amazon Fresh is its own grocery format; Amazon Pharmacy (2020) delivers prescriptions; and the 2023 One Medical acquisition extended Amazon into healthcare. Other offerings include Amazon Advertising, Amazon Pay, and Kuiper, a satellite internet initiative rivalling Starlink.
+
+FINANCIAL PERFORMANCE AND EARNINGS:
+
+Amazon is one of the largest companies in the world by revenue, with annual revenue in the order of several hundred billion US dollars in recent years, said to have exceeded approximately US$570 billion for the 2023 financial year and continued growing thereafter, based on widely reported figures. These numbers are approximate and illustrative; readers should consult Amazon's official 10-K and 10-Q filings for verified, current data, as exact figures change each period and may be restated.
+
+Revenue is generally reported across segments broadly comprising North America retail, International retail, and AWS. The retail segments generate the largest share of revenue but have historically operated on thin margins, reflecting capital-intensive logistics and competitive pricing. AWS, a smaller share of total revenue, has consistently been reported as the primary driver of operating profit, owing to higher margins typical of cloud infrastructure.
+
+Profitability has fluctuated, reflecting a strategy of prioritising reinvestment over short-term earnings; Amazon operated at a loss or minimal profit for much of its first decade as a public company before achieving more sustained profitability in recent years. Advertising and AWS margins are generally viewed as most responsible for overall profitability, while retail is viewed as lower-margin but strategically important for customer acquisition and Prime lock-in.
+
+ANNUAL REVENUE HISTORY (APPROXIMATE, ILLUSTRATIVE FIGURES BY CALENDAR YEAR):
+
+The figures below are rounded, approximate and illustrative only, intended to convey broad growth trends rather than exact reported amounts. They should be verified against Amazon's official annual Form 10-K filings before being used for any analytical or decision-making purpose.
+
+2018: approximately US$233 billion
+2019: approximately US$281 billion
+2020: approximately US$386 billion
+2021: approximately US$470 billion
+2022: approximately US$514 billion
+2023: approximately US$575 billion
+2024: approximately US$638 billion (illustrative estimate)
+
+This trend reflects a very sharp acceleration in 2020 as pandemic-driven online shopping surged, continued strong growth through 2021 and 2022 as AWS and advertising scaled, and sustained double-digit growth into 2023 and 2024 supported by retail efficiency improvements and continued AWS and advertising expansion. Actual reported figures for any given year may differ from those shown here and should be confirmed against Amazon's official earnings releases and SEC filings.
+
+MARKETING AND BRANDING:
+
+Amazon's brand identity centres on being "Earth's Most Customer-Centric Company," a phrase used repeatedly to signal focus on customer experience, competitive pricing, broad selection, and fast, reliable delivery. Its logo, featuring the word "amazon" with an orange arrow curving from A to Z, suggests both a smile and the aim of stocking "everything from A to Z."
+
+A key fixture of the marketing calendar is Prime Day, an annual shopping event launched in 2015 exclusively for Prime members, now one of the largest online shopping events globally. Amazon has cultivated a strong reputation for logistical reliability, with brand trust closely tied to delivery performance, easy returns, and responsive customer service. Marketing also extends to the device ecosystem, with Echo and Alexa positioned as entry points into smart home technology, and Prime Video and Amazon Music marketed as value-added Prime benefits.
+
+CORPORATE CULTURE AND LEADERSHIP:
+
+Amazon's culture is formally codified through Leadership Principles (including "Customer Obsession," "Ownership," "Invent and Simplify," "Bias for Action," and "Frugality," among others), used extensively in hiring and performance decisions to institutionalise the entrepreneurial, customer-focused mindset of the company's early years, even as Amazon has grown to employ well over a million people worldwide.
+
+Leadership transitioned in July 2021, when Jeff Bezos stepped down as CEO to become Executive Chairman, remaining involved in major strategic decisions while ceding day-to-day control. Andy Jassy, who had built AWS into a dominant cloud business, succeeded him as CEO and has continued to champion the Leadership Principles and Day 1 philosophy while emphasising generative AI, cost discipline, and operational efficiency.
+
+Amazon's culture has also drawn public scrutiny over fulfilment centre working conditions, with concerns raised about productivity quotas, physical demands, and injury rates, contributing to unionisation efforts including a notable vote at a Staten Island, New York, facility in 2022. Amazon has responded by highlighting investments in workplace safety, wages above prevailing minimums, and employee benefits, while continuing to face scrutiny from labour advocates and regulators.
+
+COMPETITORS AND MARKET POSITION:
+
+In e-commerce, key rivals include Walmart, the largest traditional US retailer with expanding delivery capability; Alibaba and JD.com in China and increasingly internationally; Target and Costco domestically; and fast-growing entrants such as Shein and Temu in value and discount segments. In cloud computing, AWS's principal competitors are Microsoft Azure and Google Cloud Platform, both investing heavily in infrastructure and generative AI; AWS has historically held a leading share of global cloud spending, though competition has intensified.
+
+In streaming, Prime Video competes with Netflix, Disney+, Apple TV+, and YouTube. In logistics, Amazon's in-house delivery network increasingly competes with carriers such as UPS and FedEx, while still relying on some third-party capacity. In advertising, Amazon competes with Alphabet and Meta, differentiated by its unique retail data. Amazon's overall market position remains among the strongest of any global technology and retail company, despite sustained competitive pressure across most lines of business.
+
+CORPORATE SOCIAL RESPONSIBILITY AND SUSTAINABILITY:
+
+Amazon co-founded The Climate Pledge in 2019, committing to net-zero carbon emissions across its operations by 2040, a decade ahead of the Paris Agreement timeline. It has invested in large-scale wind and solar projects, reported progress toward matching electricity consumption with renewable sources, and pursued fleet electrification, including electric delivery vans developed with Rivian, alongside sustainable packaging initiatives.
+
+Despite these commitments, Amazon has faced ongoing criticism from environmental groups, labour organisations, and media outlets over the pace of its sustainability progress, its logistics and data centre carbon footprint, and the working conditions noted above, and has generally responded with sustainability reports detailing Climate Pledge progress and wage and benefits improvements for warehouse and delivery staff. In philanthropy, Amazon and Jeff Bezos support initiatives including the Bezos Earth Fund, a multi-billion-dollar climate commitment, and community investment such as affordable housing programmes near hubs including Seattle and Washington D.C.
+
+RECENT STRATEGIC DEVELOPMENTS AND FUTURE OUTLOOK:
+
+Under Andy Jassy, Amazon has placed significant emphasis on generative artificial intelligence as a growth driver across retail and cloud. AWS has launched Amazon Bedrock, a managed service giving enterprise customers access to foundation models for generative AI applications, positioning AWS as infrastructure for the broader AI ecosystem. On the retail side, Amazon introduced Rufus, a generative AI shopping assistant helping customers with product research and recommendations.
+
+A particularly significant development has been Amazon's substantial investment in Anthropic, the AI safety and research company behind the Claude family of models, committing billions of dollars as part of a strategic partnership under which AWS serves as a primary cloud provider for Anthropic's infrastructure, with Anthropic's models made available through Amazon Bedrock.
+
+Amazon continues to expand in grocery and healthcare, building on its Whole Foods Market and One Medical acquisitions, alongside continued investment in Amazon Pharmacy and same-day grocery delivery. It also continues developing Amazon Kuiper, its satellite internet initiative, as a long-term bet on connectivity beyond retail and cloud. Regulatory and antitrust scrutiny has intensified, with the U.S. Federal Trade Commission filing a significant antitrust lawsuit against Amazon in September 2023 alleging anti-competitive marketplace practices, alongside investigations in the European Union and other jurisdictions concerning marketplace conduct and seller data use. These matters remain ongoing; readers seeking current status should consult official regulatory sources and Amazon's public filings.
+
+Looking ahead, Amazon's stated priorities include continued investment in generative AI infrastructure and applications, further efficiency improvements in logistics and fulfilment, expansion of healthcare and grocery offerings, and navigating an increasingly complex global regulatory environment. These priorities are subject to change, and readers should refer to Amazon's investor relations disclosures, annual shareholder letters, and official filings for the most current statements of strategy and outlook.
+
+DOCUMENT NOTES:
+
+This profile was prepared for a Retrieval-Augmented Generation (RAG) knowledge base and reflects general public knowledge as at 12 August 2026. All financial figures, dates, and specific claims should be independently verified against Amazon's official disclosures, including its Form 10-K and Form 10-Q filings with the U.S. Securities and Exchange Commission, before being relied upon for decision-making purposes.

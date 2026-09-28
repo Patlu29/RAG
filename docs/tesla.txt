@@ -1,0 +1,85 @@
+TESLA, INC. — COMPANY PROFILE
+
+Document prepared: 12 August 2026. This profile is a general reference and knowledge-base document. Where financial figures are given, they are approximate and illustrative only, reflecting broad public knowledge, and should be verified against Tesla's official 10-K and 10-Q filings with the US Securities and Exchange Commission for current, precise figures.
+
+
+COMPANY ORIGIN AND HISTORY:
+
+Tesla, Inc. was founded in July 2003 in San Carlos, California, by engineers Martin Eberhard and Marc Tarpenning, who believed electric vehicles could be desirable, high-performance products rather than the slow, compromised vehicles associated with earlier electric motoring efforts. The company was named Tesla Motors in homage to Nikola Tesla, the Serbian-American inventor whose work on alternating current motors underpins the technology used in Tesla's early powertrains. Ian Wright joined shortly after incorporation and is often counted among the co-founders.
+
+In February 2004, the young company raised a Series A round led by Elon Musk, who invested around 6.5 million US dollars and became chairman of the board. His growing engineering and product involvement led him to later be recognised as a co-founder alongside Eberhard, Tarpenning and Wright. JB Straubel joined in 2004 as chief technical officer and became closely associated with the company's battery technology over the following decade.
+
+Tesla's first product, the Roadster, was unveiled in 2006 and delivered from 2008, built on a Lotus Elise chassis. It demonstrated that a fully electric sports car could be genuinely quick and could travel far further on a charge than prior production electric vehicles, proving the company's founding thesis. Eberhard departed as chief executive in 2007 amid disagreements over costs and direction; Musk became chief executive officer in October 2008, a role he still holds. The 2008 financial crisis nearly bankrupted the company, and survival depended on a further funding round, a timely personal investment from Musk, and a US Department of Energy loan, later repaid ahead of schedule.
+
+Tesla Motors listed on the NASDAQ on 29 June 2010 under the ticker TSLA, raising roughly 226 million US dollars — the first American car manufacturer IPO since Ford in 1956. In February 2017 the company renamed itself Tesla, Inc. to reflect its broader energy ambitions. Key milestones followed: the Model S sedan (2012), Model X SUV (2015), mass-market Model 3 sedan (2017), Model Y crossover (2020), and the Cybertruck pickup, unveiled in 2019 and delivered from late 2023. Gigafactory Nevada opened in 2016, followed by Shanghai (2019), Berlin-Brandenburg (2022) and Texas (2022). In 2020 Tesla's market value surged and it joined the S&P 500 index.
+
+
+WHAT THEY DO — CORE BUSINESS:
+
+Tesla's stated mission is "to accelerate the world's transition to sustainable energy." The organisation spans several connected business lines rather than functioning purely as a carmaker. Its largest segment is the design, manufacture and sale of battery-electric vehicles, spanning sedans, SUVs, a pickup and a heavy commercial truck, with a high degree of vertical integration — Tesla designs its own battery cells and packs, motors and power electronics rather than relying heavily on outside powertrain suppliers.
+
+Beyond vehicles, Tesla runs an energy generation and storage segment, including the Powerwall home battery, the grid-scale Megapack, and solar products including the Solar Roof, which integrates photovoltaic cells into roof tiles. Software is increasingly central: Full Self-Driving (FSD) is an advanced driver-assistance package sold as an upgrade or subscription, intended to eventually enable driverless operation subject to regulatory approval. Tesla also operates the Supercharger fast-charging network and offers vehicle insurance in some markets. More recently, Tesla has moved into robotics through the Optimus humanoid robot, intended initially for use in its own factories and eventually for external sale.
+
+
+PRODUCTS AND SERVICES:
+
+The vehicle lineup comprises the Model S, a flagship full-size luxury sedan; the Model 3, a mid-size sedan positioned as a comparatively affordable entry point; the Model X, a full-size SUV known for its upward-opening "falcon wing" doors; the Model Y, a compact crossover that has become one of the best-selling vehicles globally regardless of powertrain; the Cybertruck, a stainless-steel-bodied pickup with an unconventional angular design; and the Tesla Semi, a heavy-duty electric truck aimed at commercial freight.
+
+Energy products include the Powerwall, a home battery typically paired with solar for storage and outage backup; the Megapack, a large pre-integrated battery block for utilities and commercial customers; and solar panels and the Solar Roof for residential generation. On the software and services side, Full Self-Driving (Supervised) continues to be developed toward unsupervised autonomy and an eventual robotaxi service; the Supercharger network provides thousands of fast-charging stations worldwide, increasingly opened to other manufacturers' vehicles via the North American Charging Standard; Tesla offers usage-based insurance in selected markets; and over-the-air updates allow features, performance and safety improvements without a workshop visit.
+
+
+FINANCIAL PERFORMANCE AND EARNINGS:
+
+Tesla's financial history moved from consistent annual losses following its 2010 listing to sustained annual profitability in more recent years. The figures below are approximate and illustrative only; consult Tesla's official 10-K and 10-Q filings for verified, current numbers. Annual revenue grew from a few hundred million US dollars in the early 2010s to roughly tens of billions of US dollars in recent years, reflecting scaled production across multiple Gigafactories and growth in the energy business. Automotive gross margins expanded materially during periods of limited direct competition, then faced downward pressure amid price reductions aimed at sustaining volume growth and heightened competition, particularly in China.
+
+Tesla achieved sustained quarterly profitability from around 2020, a milestone long in doubt given earlier cash burn, notably during the difficult 2017–2018 Model 3 production ramp. A notable and sometimes debated contributor to reported profitability has been revenue from regulatory credits — tradeable credits other automakers must buy if they fail to independently meet emissions or zero-emission-vehicle mandates. This revenue has at times represented a meaningful share of net income and is expected to decline in relative importance as competitors bring more electric models to market. Tesla's balance sheet strengthened through the 2020s as Gigafactory capital expenditure increasingly came from operating cash flow rather than external capital raises. Precise current figures should be checked against Tesla's most recent SEC filings.
+
+ANNUAL REVENUE HISTORY (APPROXIMATE, ILLUSTRATIVE FIGURES BY CALENDAR YEAR):
+
+The figures below are rounded, approximate and illustrative only, intended to convey broad growth trends rather than exact reported amounts. They should be verified against Tesla's official annual Form 10-K filings before being used for any analytical or decision-making purpose.
+
+2018: approximately US$21.5 billion
+2019: approximately US$24.6 billion
+2020: approximately US$31.5 billion
+2021: approximately US$53.8 billion
+2022: approximately US$81.5 billion
+2023: approximately US$96.8 billion
+2024: approximately US$97.7 billion (illustrative estimate, broadly flat on 2023)
+
+This pattern shows rapid growth through the Model 3 and Model Y ramp between 2019 and 2022, before growth slowed markedly in 2023 and 2024 amid price reductions aimed at defending volume, softer demand in some markets, and intensifying competition, particularly from Chinese manufacturers. Actual reported figures for any given year may differ from those shown here and should be confirmed against Tesla's official earnings releases and SEC filings.
+
+
+MARKETING AND BRANDING:
+
+Tesla's marketing has long departed from automotive industry convention. Historically the company has not purchased traditional advertising such as television or print campaigns, instead relying on word of mouth, extensive media coverage, product reveal events, and the public profile of its chief executive to build awareness. Elon Musk's personal brand has been deeply intertwined with Tesla's identity: his social media activity and public statements generate substantial free coverage, though controversy associated with him personally has at times also introduced brand risk and been linked by some analysts to shifts in sales sentiment.
+
+Tesla sells directly to consumers through company-owned stores and online ordering rather than franchised dealerships, a model that has prompted legal disputes with dealer franchise laws in various US states. Product reveal events, such as the unveilings of the Cybertruck and Semi, have generated media attention disproportionate to conventional advertising spend. In more recent years Tesla has cautiously begun limited paid advertising and expanded showroom presence in some markets, a gradual shift from its earlier approach.
+
+
+CORPORATE CULTURE AND LEADERSHIP:
+
+Elon Musk has been chief executive officer since October 2008 and is widely regarded as the dominant figure shaping Tesla's strategy, products and public communications, alongside leadership roles at other companies such as SpaceX, which has at times drawn governance commentary about divided attention. Tesla has a reputation for a demanding, high-intensity work culture, with long hours and ambitious deadlines commonly reported, particularly around launches and production ramps. Supporters argue this intensity has helped Tesla outpace legacy competitors; critics point to elevated turnover in some periods and workplace culture concerns raised in media reports and litigation.
+
+Notable executives include JB Straubel, chief technical officer for many years before departing to found a battery recycling company, and Zachary Kirkhorn, chief financial officer during a period of substantial growth. Board governance has attracted attention, including a 2018 settlement with the SEC over Musk's public statements about taking the company private, which required an independent chairperson separate from the CEO, and prolonged Delaware litigation over a very large, performance-linked stock option package for Musk, which led to shareholder votes and debate over the company's state of incorporation.
+
+
+COMPETITORS AND MARKET POSITION:
+
+Tesla operates in an increasingly crowded electric vehicle market. In China, BYD has become a formidable competitor and, on some measures of total new-energy vehicle sales including plug-in hybrids, has at times exceeded Tesla in volume while covering a broader range of price points; other Chinese manufacturers such as NIO, XPeng and Li Auto have also expanded internationally. Established automakers including Ford, General Motors, Volkswagen Group, Hyundai-Kia, Stellantis and Toyota have substantially increased EV investment, bringing existing manufacturing scale and dealer networks, though many have struggled to achieve profitable EV production at scale. Newer electric-only entrants such as Rivian, focused on trucks and SUVs, and Lucid Motors, focused on luxury performance, add further competition. In energy storage, Tesla's Powerwall and Megapack compete with LG Energy Solution, Samsung SDI, BYD's battery division, Fluence and other established providers. Tesla remains a leader in EV sales volume and brand recognition in many markets, though its global share has generally narrowed as competition and adoption have broadened.
+
+
+CORPORATE SOCIAL RESPONSIBILITY AND SUSTAINABILITY:
+
+Tesla's mission places environmental impact at the centre of its purpose, arguing that electric vehicles paired with renewable generation and storage products can materially reduce fossil fuel reliance across transport and electricity. At the same time, manufacturing carries its own environmental considerations, including the energy and water intensity of battery production and the impact of mining lithium, nickel, cobalt and other minerals. Tesla has committed to greater renewable energy use at its Gigafactories, battery material recycling and reduced cobalt content over time, though independent assessments of its full supply chain have periodically raised questions the company continues to address through supplier audits.
+
+Labour practices have periodically drawn criticism, including workplace safety reports at the Fremont, California factory, discrimination and harassment allegations addressed through litigation and regulatory findings in some instances, and unionisation disputes at various sites, including Gigafactory Berlin-Brandenburg, where Tesla's approach has differed from established local industrial relations norms. Tesla has generally pointed to competitive wages and safety improvements in response. Its Gigafactories are promoted as incorporating on-site renewable generation and water recycling, though the Berlin-Brandenburg site faced local opposition and legal challenges over water usage and forest clearing during construction, resolved through revised approvals and mitigation commitments.
+
+
+RECENT STRATEGIC DEVELOPMENTS AND FUTURE OUTLOOK:
+
+The Cybertruck's production ramp has been a major recent focus following deliveries from late 2023, with its stainless-steel exoskeleton construction presenting distinct manufacturing challenges closely watched as a test of Tesla's ability to scale novel designs. Full Self-Driving software and an eventual robotaxi service remain central to Tesla's long-term strategy, with continued iterative software improvements and limited early ride-hailing trials in select cities; timelines for fully unsupervised, regulator-approved autonomy have repeatedly extended beyond earlier projections and remain closely debated.
+
+The Optimus humanoid robot programme marks Tesla's expansion into general-purpose robotics, intended first for internal factory use and later commercial sale; the company has suggested it could become a substantial future business line, though the technology remains comparatively early-stage and timelines should be treated as aspirational. Global Gigafactory expansion continues to underpin manufacturing strategy alongside existing sites in Nevada, Shanghai, Berlin-Brandenburg and Texas, with competitive pressure from Chinese manufacturers such as BYD and shifting market share in China and Europe likely to remain significant near-term factors. Tesla's future direction will likely be shaped by the balance of volume growth and pricing discipline, progress on Full Self-Driving and robotaxis, maturation of the energy storage business, and long-term progress on Optimus. Readers should treat forward-looking statements as indicative of stated intent rather than guaranteed outcomes, and should consult Tesla's official filings for current information.
+
+
+END OF DOCUMENT.
